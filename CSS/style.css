@@ -1,0 +1,50 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+body
+{
+    position: relative;
+    width: 80vh;
+}
+nav
+{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 20px, 8%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav ul li
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+a:hover{
+    border: solid white;
+    color: gold;
+}
+.backg{
+    position: absolute;
+    width: 193vh;
+}
